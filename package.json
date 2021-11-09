@@ -1,0 +1,24 @@
+{
+  "name": "marthie",
+  "version": "1.0.0",
+  "description": "loja de roupas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitoriaCamilly/marthie.git"
+  },
+  "keywords": [],
+  "author": "Camilly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VitoriaCamilly/marthie/issues"
+  },
+  "homepage": "https://github.com/VitoriaCamilly/marthie#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
+}
